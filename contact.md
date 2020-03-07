@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [aparna@cs.toronto.edu](mailto:aparna@cs.toronto.edu)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> University of Toronto
 >
-> London
+> Toronto
 >
-> United Kingdom
+> Canada
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](https://twitter.com/AparnaBee)
+2. [GitHub](https://github.com/Aparna-B)
+3. [Google Scholar](https://scholar.google.co.in/citations?user=8Mlyv3oAAAAJ&hl=en&authuser=1)

@@ -4,42 +4,34 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="website_image.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am a Research Software Engineer at WinterLight Labs. I graduated from the University of Toronto with a Masters degree in Applied Computing in January 2019. I graduated with honors from the Indian Institute of Technology, Guwahati in 2017. I am interested in research and applications of machine learning for healthcare. Here is my [CV](https://drive.google.com/file/d/1PpkF53l39gq4Q0SKD6IbDU_8FtH3O9ef/view?usp=sharing).
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research interests include clinical natural language processing and machine learning for healthcare. Currently, I am working on research projects in the fields of domain adaptation with unsupervised techniques, machine learning, and speech processing for healthcare applications.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Balagopalan, A., Novikova, N., McDermott, M. B., Nestor, B., Naumann, T. J., and Ghassemi, M., “Cross-LanguageAphasia Detection using Optimal Transport Domain Adaptation”, To appear in Machine Learning for Health (ML4H) at NeurIPS 2019, To appear in PMLR. [link](https://arxiv.org/pdf/1912.04370.pdf)
+2. Novikova, J.,Balagopalan, A., Shkaruta, K.,  Rudzicz, F., “Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power”, 5th Workshop on Noisy User Generated Text, EMNLP 2019.[link](https://www.aclweb.org/anthology/D19-5556.pdf)
+3. Balagopalan, A., Novikova, J., Rudzicz, F.,  Ghassemi, M., “The Effect of Heterogeneous Data for Alzheimer’s Disease Detection from Speech.”, Machine Learning for Health (ML4H) at NeurIPS 2018.[link](https://arxiv.org/pdf/1811.12254.pdf)
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Clinical Abstracts
 
-Here is a table
+1. Balagopalan, A., Kaufman, L. J., Novikova, J., Siddiqui, O., Paul, R., Ward, M. and Simpson, W., “Earlydevelopment of a unified, speech and language composite to assess clinical severity of Frontotemporal LobarDegeneration (FLTD)”, Clinical Trials in Alzheimer’s Disease (CTAD) 2019.
+2. Simpson, W.,Balagopalan, A., Kaufman, L. J., Yeung, A., and Butler, A., “The Use of a Voice-based DigitalBiomarker in Patients With Depression ”, International Society for CNS Clinical Trials and Methodology 2019.
+3. Balagopalan, A., Yancheva, M., Novikova, J. and Simpson, W., 2019, “Using acoustic and linguistic markers fromspontaneous speech to predict scores on the Montreal Cognitive Assessment (MoCA). ”, Memory, 20, p.13., 2019.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
+## Book Chapters
 
----
+1. Seifert, C., Aamir, A.,Balagopalan, A., Jain, D., Sharma, A., Grottel, S.,  Gumhold, S., “Visualizations of deep neural networks in computer vision:  A survey”, In Transparent Data Mining for Big and Small Data (pp.  123-144).Springer, Cham., 2017. [link](https://www.springerprofessional.de/en/visualizations-of-deep-neural-networks-in-computer-vision-a-surv/12273622)
 
-Here is a blockquote
+## Teaching Experience
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+Teaching Assistant, Department of Computer Science, University of Toronto
+1. CSC 458:  Computer Networks, Fall 2017
+2. CSC 358:  Introduction to Computer Networks, Winter 2018
