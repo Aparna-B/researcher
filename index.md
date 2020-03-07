@@ -14,9 +14,9 @@ My research interests include clinical natural language processing and machine l
 
 ## Publications
 
-1. Balagopalan, A., Novikova, N., McDermott, M. B., Nestor, B., Naumann, T. J., and Ghassemi, M., “Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation”, To appear in Machine Learning for Health (ML4H) at NeurIPS 2019, To appear in PMLR. [paper](https://arxiv.org/pdf/1912.04370.pdf)
-2. Novikova, J.,Balagopalan, A., Shkaruta, K.,  Rudzicz, F., “Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power”, 5th Workshop on Noisy User Generated Text, EMNLP 2019.[paper](https://www.aclweb.org/anthology/D19-5556.pdf)
-3. Balagopalan, A., Novikova, J., Rudzicz, F.,  Ghassemi, M., “The Effect of Heterogeneous Data for Alzheimer’s Disease Detection from Speech.”, Machine Learning for Health (ML4H) at NeurIPS 2018.[paper](https://arxiv.org/pdf/1811.12254.pdf)
+1. Balagopalan, A., Novikova, N., McDermott, M. B., Nestor, B., Naumann, T. J., and Ghassemi, M., “Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation”, To appear in Machine Learning for Health (ML4H) at NeurIPS 2019, To appear in PMLR. [/paper/](https://arxiv.org/pdf/1912.04370.pdf)
+2. Novikova, J.,Balagopalan, A., Shkaruta, K.,  Rudzicz, F., “Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power”, 5th Workshop on Noisy User Generated Text, EMNLP 2019. [/paper/](https://www.aclweb.org/anthology/D19-5556.pdf)
+3. Balagopalan, A., Novikova, J., Rudzicz, F.,  Ghassemi, M., “The Effect of Heterogeneous Data for Alzheimer’s Disease Detection from Speech.”, Machine Learning for Health (ML4H) at NeurIPS 2018. [/paper/](https://arxiv.org/pdf/1811.12254.pdf)
 
 
 ## Clinical Abstracts
@@ -28,7 +28,7 @@ My research interests include clinical natural language processing and machine l
 
 ## Book Chapters
 
-1. Seifert, C., Aamir, A.,Balagopalan, A., Jain, D., Sharma, A., Grottel, S.,  Gumhold, S., “Visualizations of Deep Neural Networks in Computer Vision:  A survey”, In Transparent Data Mining for Big and Small Data (pp.  123-144).Springer, Cham., 2017. [chapter](https://www.springerprofessional.de/en/visualizations-of-deep-neural-networks-in-computer-vision-a-surv/12273622)
+1. Seifert, C., Aamir, A.,Balagopalan, A., Jain, D., Sharma, A., Grottel, S.,  Gumhold, S., “Visualizations of Deep Neural Networks in Computer Vision:  A survey”, In Transparent Data Mining for Big and Small Data (pp.  123-144).Springer, Cham., 2017. [/chapter/](https://www.springerprofessional.de/en/visualizations-of-deep-neural-networks-in-computer-vision-a-surv/12273622)
 
 ## Teaching Experience
 
