@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a Research Software Engineer at Winterlight Labs. I graduated from the University of Toronto with a Masters degree in Applied Computing in 2019. I graduated with honors from the Indian Institute of Technology, Guwahati in 2017. I am interested in research and applications of machine learning for healthcare. Here is my [CV](https://aparna-b.github.io/researcher/resume.pdf).
 
-## Research Interest
+## Research Interests
 
 My research interests include clinical natural language processing and machine learning for healthcare. Currently, I am working on research projects in the fields of domain adaptation with unsupervised techniques, machine learning, and speech processing for healthcare applications.
 
