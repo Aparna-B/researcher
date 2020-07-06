@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="website_image.jpg">
 
-Hi! I am a Research Software Engineer at [Winterlight Labs](https://winterlightlabs.com/). I graduated from the [University of Toronto](https://mscac.utoronto.ca/) with a Masters degree in Applied Computing in 2019. I graduated with honors from [IIT Guwahati](https://www.iitg.ac.in/eee/), India in 2017. I am interested in research and applications of machine learning for healthcare. Here is my [CV](https://aparna-b.github.io/researcher/resume.pdf).
+Hi! I am a Research Software Engineer at [Winterlight Labs](https://winterlightlabs.com/). I graduated from the [University of Toronto](https://mscac.utoronto.ca/) with a Master's degree in Applied Computing in 2019. My master's project was supervised by [Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/profile/), [Prof. Frank Rudzicz](http://www.cs.toronto.edu/~frank/), and [Dr. Jekaterina Novikova](https://jeknov.tumblr.com/). Prior to this, I graduated with honors from the [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/eee/), India in 2017 where I was fortunate to get to work with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/). I have also held research intern positions at the Technische Universität, Dresden as a DAAD-WISE scholar in 2016 where I was supervised by [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) and [Prof. Stefan Gumhold](https://tu-dresden.de/ing/informatik/smt/cgv/die-professur/inhaber-in), and at the [Philips Innovation Campus, Bengaluru](https://www.philips.co.in/a-w/about-philips/philips-innovation-center.html) in the healthcare R&D team in 2017.
+
+Here is my [CV](https://aparna-b.github.io/researcher/resume.pdf).
 
 ## Research Interests
 
@@ -14,7 +16,7 @@ My research interests include clinical natural language processing and machine l
 
 ## Publications
 
-1. Balagopalan, A., Novikova, N., McDermott, M. B., Nestor, B., Naumann, T. J., and Ghassemi, M., “Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation”, To appear in Machine Learning for Health (ML4H) at NeurIPS 2019, To appear in PMLR. [/paper/](https://arxiv.org/pdf/1912.04370.pdf)
+1. Balagopalan, A., Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M.. (2020). Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation. Proceedings of the Machine Learning for Health NeurIPS Workshop, in PMLR 116:202-219. [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
 2. Novikova, J.,Balagopalan, A., Shkaruta, K.,  Rudzicz, F., “Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power”, 5th Workshop on Noisy User Generated Text, EMNLP 2019. [/paper/](https://www.aclweb.org/anthology/D19-5556.pdf)
 3. Balagopalan, A., Novikova, J., Rudzicz, F.,  Ghassemi, M., “The Effect of Heterogeneous Data for Alzheimer’s Disease Detection from Speech.”, Machine Learning for Health (ML4H) at NeurIPS 2018. [/paper/](https://arxiv.org/pdf/1811.12254.pdf)
 
