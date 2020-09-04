@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 # footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design courtesty of [repo](https://github.com/ankitsultana)"
+footer_text: "Page design courtesty of https://github.com/ankitsultana"
 
 sass:
     style: compressed
