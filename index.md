@@ -16,9 +16,10 @@ My research interests include clinical natural language processing and machine l
 
 ## Publications
 1. Balagopalan, A., Eyre, B., Rudzicz, F., Novikova, J. (2020). To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Conference of the International Speech Communication Association (Interspeech) 2020. [/paper/]()
-2. Balagopalan, A., Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2020). Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation. Proceedings of the Machine Learning for Health NeurIPS Workshop, in PMLR 116:202-219. [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
-3. Novikova, J.,Balagopalan, A., Shkaruta, K.,  Rudzicz, F., “Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power”, 5th Workshop on Noisy User Generated Text, EMNLP 2019. [/paper/](https://www.aclweb.org/anthology/D19-5556.pdf)
-4. Balagopalan, A., Novikova, J., Rudzicz, F.,  Ghassemi, M., “The Effect of Heterogeneous Data for Alzheimer’s Disease Detection from Speech.”, Machine Learning for Health (ML4H) at NeurIPS 2018. [/paper/](https://arxiv.org/pdf/1811.12254.pdf)
+2. Balagopalan, A., Shkaruta, K., Novikova, J., Impact of ASR on Alzheimer's Disease Detection: All Errors are Equal, but Deletions are More Equal than Others, 6th Workshop on Noisy User Generated Text, EMNLP 2020 (Oral Spotlight) [/paper/]()
+3. Balagopalan, A., Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2020). Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation. Proceedings of the Machine Learning for Health NeurIPS Workshop, in PMLR 116:202-219. [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
+4. Novikova, J.,Balagopalan, A., Shkaruta, K.,  Rudzicz, F., “Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power”, 5th Workshop on Noisy User Generated Text, EMNLP 2019. [/paper/](https://www.aclweb.org/anthology/D19-5556.pdf)
+5. Balagopalan, A., Novikova, J., Rudzicz, F.,  Ghassemi, M., “The Effect of Heterogeneous Data for Alzheimer’s Disease Detection from Speech.”, Machine Learning for Health (ML4H) at NeurIPS 2018. [/paper/](https://arxiv.org/pdf/1811.12254.pdf)
 
 
 ## Clinical Abstracts
