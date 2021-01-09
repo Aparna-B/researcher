@@ -6,16 +6,31 @@ layout: default
 
 <img class="profile-picture" src="website_image.jpg">
 
-Hi! I am a Research Software Engineer at [Winterlight Labs](https://winterlightlabs.com/). I graduated from the [University of Toronto](https://mscac.utoronto.ca/) with a Master's degree in Applied Computing in 2019. My master's project, generously supported by Winterlight Labs and a Mitacs Accelerate Scholarship, was supervised by [Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/profile/), [Prof. Frank Rudzicz](http://www.cs.toronto.edu/~frank/), and [Dr. Jekaterina Novikova](https://jeknov.tumblr.com/). Prior to this, I graduated with honors from the [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/eee/), India in 2017 where I was fortunate to get to work with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/). I have also held research intern positions at the Technische Universität, Dresden as a DAAD-WISE scholar in 2016 where I was supervised by [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) and [Prof. Stefan Gumhold](https://tu-dresden.de/ing/informatik/smt/cgv/die-professur/inhaber-in), and at the [Philips Innovation Campus, Bengaluru](https://www.philips.co.in/a-w/about-philips/philips-innovation-center.html) in the healthcare R&D team in 2017.
+Hi! I am 1st year PhD student in the Department of Computer Science at the [University of Toronto](https://www.utoronto.ca/) and the [Vector Institute](https://vectorinstitute.ai/). I am co-supervised by [Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/profile/) and [Prof. Frank Rudzicz](http://www.cs.toronto.edu/~frank/). My research is focused on developing and interrogating machine learning models in safety-critical settings such as healthcare. I also work part-time as a Research Software Engineer at [Winterlight Labs](https://winterlightlabs.com/). I graduated from the [University of Toronto](https://mscac.utoronto.ca/) with a Master's degree in Applied Computing in 2019. My master's project, generously supported by Winterlight Labs and a Mitacs Accelerate Scholarship, was supervised by [Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/profile/), [Prof. Frank Rudzicz](http://www.cs.toronto.edu/~frank/), and [Dr. Jekaterina Novikova](https://jeknov.tumblr.com/). Prior to this, I graduated with honors from the [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/eee/), India in 2017 where I was fortunate to get to work with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/). I have also held research intern positions at the Technische Universität, Dresden as a DAAD-WISE scholar in 2016 where I was supervised by [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) and [Prof. Stefan Gumhold](https://tu-dresden.de/ing/informatik/smt/cgv/die-professur/inhaber-in), and at the [Philips Innovation Campus, Bengaluru](https://www.philips.co.in/a-w/about-philips/philips-innovation-center.html) in the healthcare R&D team in 2017.
 
 Here is my [CV](https://aparna-b.github.io/researcher/resume.pdf).
 
 ## Research Interests
 
-My research interests include clinical natural language processing and machine learning for healthcare. Currently, I am working on research projects in the fields of domain adaptation with unsupervised techniques, machine learning, and speech processing for healthcare applications.
+Developing and understanding trustworthy machine learning and natural language processing techniques for healthcare
+applications: particularly using unstructured and noisy human-generated data, with core machine learning methodologies
+such as transfer learning and reinforcement learning.
+
+## Announcements
+- Dec. 2020 - DeepMind fellowship
+I received a DeepMind PhD Fellowship award
+
+- Nov. 2020 - Spotlight talk at the 6th Workshop on Noisy User-generated Text 
+I gave a spotlight talk at the 6th Workshop on Noisy User-generated Text at EMNLP 2020, presenting our work on the [impact of automatic speech recognition on Alzheimer's Disease detection from speech](https://www.aclweb.org/anthology/2020.wnut-1.21.pdf) 
+
+- Oct. 2020 - NeurIPS workshop acceptance
+Our paper "Train-test Overlaps in Clinical Natural Language Processing Datasets" was accepted to the Machine Learning for Health Workshop at NeurIPS, 2020 
+
+- Jul. 2020 - Interspeech acceptance
+Our paper ["To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer's Disease Detection"](https://arxiv.org/abs/2008.01551) was accepted to Interspeech 2020.
 
 ## Publications
-1. Balagopalan, A., Eyre, B., Rudzicz, F., Novikova, J. (2020). To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Conference of the International Speech Communication Association (Interspeech) 2020. [/paper/]()
+1. Balagopalan, A., Eyre, B., Rudzicz, F., Novikova, J. (2020). To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Conference of the International Speech Communication Association (Interspeech) 2020. [/paper/](https://arxiv.org/abs/2008.01551)
 2. Balagopalan, A., Shkaruta, K., Novikova, J., Impact of ASR on Alzheimer's Disease Detection: All Errors are Equal, but Deletions are More Equal than Others, 6th Workshop on Noisy User Generated Text, EMNLP 2020 (Oral Spotlight) [/paper/]()
 3. Balagopalan, A., Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2020). Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation. Proceedings of the Machine Learning for Health NeurIPS Workshop, in PMLR 116:202-219. [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
 4. Novikova, J.,Balagopalan, A., Shkaruta, K.,  Rudzicz, F., “Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power”, 5th Workshop on Noisy User Generated Text, EMNLP 2019. [/paper/](https://www.aclweb.org/anthology/D19-5556.pdf)
