@@ -29,11 +29,11 @@ I gave a spotlight talk at the 6th Workshop on Noisy User-generated Text at EMNL
 - Jul. 2020 - Interspeech acceptance \
 Our paper ["To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer's Disease Detection"](https://arxiv.org/abs/2008.01551) was accepted to Interspeech 2020!
 
-## Publications
+## Conference Papers
 1. Balagopalan, A., Eyre, B., Rudzicz, F., Novikova, J. (2020). To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Conference of the International Speech Communication Association (Interspeech) 2020. [/paper/](https://arxiv.org/abs/2008.01551)
 2. Balagopalan, A., Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2019). Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation. Proceedings of the Machine Learning for Health NeurIPS Workshop, in PMLR 116:202-219. [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
 
-## Workshop Papers and Preprints
+## Workshop Papers 
 1. Balagopalan, A., Shkaruta, K., Novikova, J., Impact of ASR on Alzheimer's Disease Detection: All Errors are Equal, but Deletions are More Equal than Others, 6th Workshop on Noisy User Generated Text, EMNLP 2020 (Oral Spotlight) [/paper/](https://www.aclweb.org/anthology/2020.wnut-1.21.pdf)
 2. Eyre, B., Balagopalan, A., & Novikova, J. Fantastic Features and Where to Find Them: Detecting Cognitive Impairment with a Subsequence Classification Guided Approach. In Proceedings of the Sixth Workshop on Noisy User-generated Text, EMNLP 2020 [/paper/](https://www.aclweb.org/anthology/2020.wnut-1.25.pdf)
 3. Novikova, J.,Balagopalan, A., Shkaruta, K.,  Rudzicz, F., “Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power”, 5th Workshop on Noisy User Generated Text, EMNLP 2019. [/paper/](https://www.aclweb.org/anthology/D19-5556.pdf)
