@@ -23,7 +23,7 @@ Our paper ["Comparing Acoustic-based Approaches for Alzheimer's Disease Detectio
 - Dec. 2020 - DeepMind fellowship \
 I received a DeepMind PhD Fellowship award.
 
-- Nov. 2020 - Spotlight talk at the 6th Workshop on Noisy User-generated Text \ 
+- Nov. 2020 - Spotlight talk at the 6th Workshop on Noisy User-generated Text  \
 I gave a spotlight talk at the 6th Workshop on Noisy User-generated Text at EMNLP 2020, presenting our work on the [impact of automatic speech recognition on Alzheimer's Disease detection from speech](https://www.aclweb.org/anthology/2020.wnut-1.21.pdf) 
 
 - Jul. 2020 - Interspeech acceptance \
