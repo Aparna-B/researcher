@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="website_image.jpg">
 
-Hi! I am PhD student in the Department of Electrical Engineering and Computer Science (EECS) at MIT advised by [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/). My research broadly focuses on developing fair, interpretable, and robust models by carefully re-evaluating and surfacing assumptions in machine learning-based measurements in socially-relevant contexts. Currently, I am supported by an [Amazon fellowship](https://sciencehub.mit.edu/amazon-fellows/) from the MIT ScienceHub.
+Hi! I am PhD student in the Department of Electrical Engineering and Computer Science (EECS) at MIT advised by [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/). My research broadly focuses on developing fair, interpretable, and robust models by carefully re-evaluating and surfacing assumptions in machine learning-based measurements in socially-relevant contexts. Currently, I am supported by an [Amazon fellowship](https://sciencehub.mit.edu/amazon-fellows/) from the [MIT ScienceHub](https://sciencehub.mit.edu/).
 
 Previously, I was a Research Engineer at [Winterlight Labs](https://winterlightlabs.com/). I graduated from the [University of Toronto](https://mscac.utoronto.ca/) with a Master's degree in Applied Computing. My master's project, generously supported by Winterlight Labs and a Mitacs Accelerate Scholarship, was supervised by [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/), [Prof. Frank Rudzicz](http://www.cs.toronto.edu/~frank/), and [Dr. Jekaterina Novikova](https://jeknov.github.io/). Prior to this, I graduated with honors from the [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/eee/). 
 
