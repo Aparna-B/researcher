@@ -19,6 +19,7 @@ Here is my [CV](https://aparna-b.github.io/researcher/resume.pdf).
 Developing and understanding trustworthy machine learning and natural language processing techniques for healthcare applications: particularly by carefully re-evaluating and surfacing assumptions in machine learning-based measurements.
 
 ## Conference and Journal
+
 1. Balagopalan, A., Zhang, H., Hamidieh, K., Hartvigsen, T., Rudzicz, F., and Ghassemi, M. (2022). The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). Association for Computing Machinery, New York, NY, USA, 1194–1206. [/paper/] (https://doi.org/10.1145/3531146.3533179)
 2. Balagopalan, A., & Novikova, J. (2021). Comparing Acoustic-based Approaches for Alzheimer's Disease Detection. arXiv preprint arXiv:2106.01555.C onference of the International Speech Communication Association (Interspeech) 2021. [/paper/](https://arxiv.org/abs/2106.01555)
 3. Balagopalan, A., Eyre, B., Robin, J., Rudzicz, F., & Novikova, J. (2021). Comparing pre-trained and feature-based models for prediction of Alzheimer's disease based on speech. Frontiers in aging neuroscience, 13, 635945.
@@ -27,6 +28,7 @@ Developing and understanding trustworthy machine learning and natural language p
 
 
 ## Book Chapters
+
 1. Seifert, C., Aamir, A.,Balagopalan, A., Jain, D., Sharma, A., Grottel, S.,  Gumhold, S., “Visualizations of Deep Neural Networks in Computer Vision:  A survey”, In Transparent Data Mining for Big and Small Data (pp.  123-144).Springer, Cham., 2017. [/chapter/](https://www.springerprofessional.de/en/visualizations-of-deep-neural-networks-in-computer-vision-a-surv/12273622)
 
 ## Teaching Experience
