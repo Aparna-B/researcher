@@ -3,17 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [aparna@cs.toronto.edu](mailto:aparna@cs.toronto.edu)
+* Email: [aparnab@mit.edu](mailto:aparnab@mit.edu)
 
 ---
 
 ## Mailing Address
 
-> University of Toronto
+> E-235, MIT IMES
 >
-> Toronto
+> Cambridge, MA
 >
-> Canada
+> USA
 
 ---
 
