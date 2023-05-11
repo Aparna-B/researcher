@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="website_image.jpg">
 
-Hi! I am PhD student in the Department of Electrical Engineering and Computer Science (EECS) at MIT advised by [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/). My research broadly focuses on developing fair, interpretable, and robust models by carefully re-evaluating and surfacing assumptions in machine learning-based measurements in socially-relevant contexts. Currently, I am supported by an [Amazon fellowship](https://sciencehub.mit.edu/amazon-fellows/) from the [MIT ScienceHub](https://sciencehub.mit.edu/).
+Hi! I am PhD student in the Department of Electrical Engineering and Computer Science (EECS) at MIT advised by [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/). My research broadly focuses on developing fair, interpretable, and robust models by carefully re-evaluating and surfacing assumptions in machine learning-based measurements in socially-relevant contexts. 
 
 Previously, I was a Research Engineer at [Winterlight Labs](https://winterlightlabs.com/). I graduated from the [University of Toronto](https://mscac.utoronto.ca/) with a Master's degree in Applied Computing. My master's project, generously supported by Winterlight Labs and a Mitacs Accelerate Scholarship, was supervised by [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/), [Prof. Frank Rudzicz](http://www.cs.toronto.edu/~frank/), and [Dr. Jekaterina Novikova](https://jeknov.github.io/). Prior to this, I graduated with honors from the [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/eee/). 
 
@@ -20,12 +20,14 @@ Developing and understanding trustworthy machine learning and natural language p
 
 ## Conference and Journal
 
-1. Balagopalan, A., Zhang, H., Hamidieh, K., Hartvigsen, T., Rudzicz, F., and Ghassemi, M. (2022). The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). Association for Computing Machinery, New York, NY, USA, 1194–1206. [/paper/](https://doi.org/10.1145/3531146.3533179)
-2. Adam, H., Balagopalan, A., Alsentzer, E. et al. Mitigating the impact of biased artificial intelligence in emergency decision-making. Nature Communications Medicine 2, 149 (2022). [/paper/](https://doi.org/10.1038/s43856-022-00214-4)
-3. Balagopalan, A., & Novikova, J. (2021). Comparing Acoustic-based Approaches for Alzheimer's Disease Detection. arXiv preprint arXiv:2106.01555.C onference of the International Speech Communication Association (Interspeech) 2021. [/paper/](https://arxiv.org/abs/2106.01555)
-4. Balagopalan, A., Eyre, B., Robin, J., Rudzicz, F., & Novikova, J. (2021). Comparing pre-trained and feature-based models for prediction of Alzheimer's disease based on speech. Frontiers in aging neuroscience, 13, 635945. [/paper/](https://www.frontiersin.org/articles/10.3389/fnagi.2021.635945/full)
-5. Balagopalan, A., Eyre, B., Rudzicz, F., Novikova, J. (2020). To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Conference of the International Speech Communication Association (Interspeech) 2020. [/paper/](https://arxiv.org/abs/2008.01551)
-6. Balagopalan, A., Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2019). Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation. Proceedings of the Machine Learning for Health NeurIPS Workshop, in PMLR 116:202-219. [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
+
+1. Balagopalan, A., Madras, D., Yang, D.H., Hadfield-Menell, D., Hadfield, G.K., and Ghassemi, M. (2023). Judging facts, judging norms: Training machine learning models to judge humans requires a modified approach to labeling data. Sci. Adv.9, eabq0701(2023). [/paper/](https://doi.org/10.1126/sciadv.abq0701)
+2. Balagopalan, A., Zhang, H., Hamidieh, K., Hartvigsen, T., Rudzicz, F., and Ghassemi, M. (2022). The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). Association for Computing Machinery, New York, NY, USA, 1194–1206. [/paper/](https://doi.org/10.1145/3531146.3533179)
+3. Adam, H., Balagopalan, A., Alsentzer, E. et al. Mitigating the impact of biased artificial intelligence in emergency decision-making. Nature Communications Medicine 2, 149 (2022). [/paper/](https://doi.org/10.1038/s43856-022-00214-4)
+4. Balagopalan, A., & Novikova, J. (2021). Comparing Acoustic-based Approaches for Alzheimer's Disease Detection. arXiv preprint arXiv:2106.01555.C onference of the International Speech Communication Association (Interspeech) 2021. [/paper/](https://arxiv.org/abs/2106.01555)
+5. Balagopalan, A., Eyre, B., Robin, J., Rudzicz, F., & Novikova, J. (2021). Comparing pre-trained and feature-based models for prediction of Alzheimer's disease based on speech. Frontiers in aging neuroscience, 13, 635945. [/paper/](https://www.frontiersin.org/articles/10.3389/fnagi.2021.635945/full)
+6. Balagopalan, A., Eyre, B., Rudzicz, F., Novikova, J. (2020). To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Conference of the International Speech Communication Association (Interspeech) 2020. [/paper/](https://arxiv.org/abs/2008.01551)
+7. Balagopalan, A., Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2019). Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation. Proceedings of the Machine Learning for Health NeurIPS Workshop, in PMLR 116:202-219. [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
 
 
 ## Book Chapters
@@ -33,6 +35,9 @@ Developing and understanding trustworthy machine learning and natural language p
 1. Seifert, C., Aamir, A.,Balagopalan, A., Jain, D., Sharma, A., Grottel, S.,  Gumhold, S., “Visualizations of Deep Neural Networks in Computer Vision:  A survey”, In Transparent Data Mining for Big and Small Data (pp.  123-144).Springer, Cham., 2017. [/chapter/](https://www.springerprofessional.de/en/visualizations-of-deep-neural-networks-in-computer-vision-a-surv/12273622)
 
 ## Teaching Experience
+
+Teaching Assistant, Department of Electrical Engineering and Computer Science, MIT
+1. IDS.012 / 6.3730 / IDS.131 / 6.3732: Statistics, Computation, and Applications, Winter 2023
 
 Teaching Assistant, Department of Computer Science, University of Toronto
 1. CSC 458:  Computer Networks, Fall 2017
