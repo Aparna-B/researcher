@@ -20,7 +20,7 @@ nav:
    link: "/"
  - name: "Publications"
    link: "publications"
-- name: "TA"
+ - name: "TA"
    link: "ta"
  - name: "Resume"
    link: "resume.pdf"
