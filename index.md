@@ -16,26 +16,29 @@ Here is my [CV](https://aparna-b.github.io/researcher/resume.pdf).
 
 ## Research Interests
 
-Developing and understanding trustworthy machine learning and natural language processing techniques for healthcare applications: particularly by carefully re-evaluating and surfacing assumptions in machine learning-based measurements.
+I am broadly interested in developing techniques to support fair classification and ranking in healthcare contexts. In this scope, the themes of my own research are:
+ 
+(1) Understanding and Improving Responsible Data Acquisition Practices, (2) Developing Algorithms and Measures for Fair Ranking, and (3) Studying Views of Interpretability to Achieve Fair Outcomes Through an HCI+AI lens.
+ 
 
 ## Conference and Journal
 
 
 
-1. Balagopalan, A., Madras, D., Yang, D.H., Hadfield-Menell, D., Hadfield, G.K., and Ghassemi, M. (2023). Judging facts, judging norms: Training machine learning models to judge humans requires a modified approach to labeling data. Sci. Adv.9, eabq0701(2023). [/paper/](https://doi.org/10.1126/sciadv.abq0701)
-2. Balagopalan, A., Jacobs, A. Z., & Biega, A. J. (2023, July). The Role of Relevance in Fair Ranking. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 2650-2660). [/paper/](https://dl.acm.org/doi/10.1145/3539618.3591933)
-3. Balagopalan, A., Zhang, H., Hamidieh, K., Hartvigsen, T., Rudzicz, F., and Ghassemi, M. (2022). The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). Association for Computing Machinery, New York, NY, USA, 1194–1206. [/paper/](https://doi.org/10.1145/3531146.3533179)
-4. Adam, H., Balagopalan, A., Alsentzer, E. et al. Mitigating the impact of biased artificial intelligence in emergency decision-making. Nature Communications Medicine 2, 149 (2022). [/paper/](https://doi.org/10.1038/s43856-022-00214-4)
-5. Robin, J., Xu, M., Balagopalan, A., Novikova, J., Kahn, L., Oday, A., Hejrati, M., Hashemifar, S., Negahdar, M., Simpson, W. and Teng, E., 2023. Automated detection of progressive speech changes in early Alzheimer's disease. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 15(2), p.e12445.[/paper/](https://alz-journals.onlinelibrary.wiley.com/doi/pdf/10.1002/dad2.12445)
-6. Balagopalan, A., & Novikova, J. (2021). Comparing Acoustic-based Approaches for Alzheimer's Disease Detection. arXiv preprint arXiv:2106.01555.C onference of the International Speech Communication Association (Interspeech) 2021. [/paper/](https://arxiv.org/abs/2106.01555)
-7. Balagopalan, A., Eyre, B., Robin, J., Rudzicz, F., & Novikova, J. (2021). Comparing pre-trained and feature-based models for prediction of Alzheimer's disease based on speech. Frontiers in aging neuroscience, 13, 635945. [/paper/](https://www.frontiersin.org/articles/10.3389/fnagi.2021.635945/full)
-8. Balagopalan, A., Eyre, B., Rudzicz, F., Novikova, J. (2020). To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Conference of the International Speech Communication Association (Interspeech) 2020. [/paper/](https://arxiv.org/abs/2008.01551)
-9. Balagopalan, A., Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2019). Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation. Proceedings of the Machine Learning for Health NeurIPS Workshop, in PMLR 116:202-219. [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
+1. Judging facts, judging norms: Training machine learning models to judge humans requires a modified approach to labeling data. Science Advances 2023. *Balagopalan, A.*, Madras, D., Yang, D.H., Hadfield-Menell, D., Hadfield, G.K., and Ghassemi, M. (2023). [/paper/](https://doi.org/10.1126/sciadv.abq0701)
+2. The Role of Relevance in Fair Ranking. ACM SIGIR 2023. *Balagopalan, A.*, Jacobs, A. Z., & Biega, A. J. (2023, July). [/paper/](https://dl.acm.org/doi/10.1145/3539618.3591933)
+3. The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations. ACM FAccT 2022. *Balagopalan, A.*, Zhang, H., Hamidieh, K., Hartvigsen, T., Rudzicz, F., and Ghassemi, M. (2022). [/paper/](https://doi.org/10.1145/3531146.3533179)
+4. Mitigating the impact of biased artificial intelligence in emergency decision-making. Nature Communications Medicine 2023. Adam, H., *Balagopalan, A.*, Alsentzer, E. et al. [/paper/](https://doi.org/10.1038/s43856-022-00214-4)
+5. Automated detection of progressive speech changes in early Alzheimer's disease. Alzheimer's & Dementia: Diagnosis, 2023. Robin, J., Xu, M., *Balagopalan, A.*, Novikova, J., Kahn, L., Oday, A., Hejrati, M., Hashemifar, S., Negahdar, M., Simpson, W. and Teng, E., 2023. [/paper/](https://alz-journals.onlinelibrary.wiley.com/doi/pdf/10.1002/dad2.12445)
+6. Comparing Acoustic-based Approaches for Alzheimer's Disease Detection. Interspeech 2021. *Balagopalan, A.*, & Novikova, J. (2021). [/paper/](https://arxiv.org/abs/2106.01555)
+7. Comparing pre-trained and feature-based models for prediction of Alzheimer's disease based on speech. Frontiers in aging neuroscience 2021. *Balagopalan, A.*, Eyre, B., Robin, J., Rudzicz, F., & Novikova, J. (2021). [/paper/](https://www.frontiersin.org/articles/10.3389/fnagi.2021.635945/full)
+8. To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Interspeech 2020. *Balagopalan, A.*, Eyre, B., Rudzicz, F., Novikova, J. (2020). [/paper/](https://arxiv.org/abs/2008.01551)
+9. Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation.  Machine Learning for Health NeurIPS Workshop, in PMLR 2019. *Balagopalan, A.*, Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2019). [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
 
 
 ## Book Chapters
 
-1. Seifert, C., Aamir, A.,Balagopalan, A., Jain, D., Sharma, A., Grottel, S.,  Gumhold, S., “Visualizations of Deep Neural Networks in Computer Vision:  A survey”, In Transparent Data Mining for Big and Small Data (pp.  123-144).Springer, Cham., 2017. [/chapter/](https://www.springerprofessional.de/en/visualizations-of-deep-neural-networks-in-computer-vision-a-surv/12273622)
+1. “Visualizations of Deep Neural Networks in Computer Vision:  A survey”, In Transparent Data Mining for Big and Small Data (pp.  123-144).Springer, Cham., 2017. Seifert, C., Aamir, *A.,Balagopalan*, A., Jain, D., Sharma, A., Grottel, S.,  Gumhold, S., [/chapter/](https://www.springerprofessional.de/en/visualizations-of-deep-neural-networks-in-computer-vision-a-surv/12273622)
 
 ## Teaching Experience
 
