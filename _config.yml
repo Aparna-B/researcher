@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 # footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design courtesty of https://github.com/ankitsultana"
+footer_text: "Design from https://github.com/ankitsultana"
 
 sass:
     style: compressed
@@ -18,6 +18,10 @@ sass:
 nav:
  - name: "About"
    link: "/"
+ - name: "Publications"
+   link: "publications"
+- name: "TA"
+   link: "ta"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
