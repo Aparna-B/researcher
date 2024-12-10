@@ -14,7 +14,7 @@ I have also held research intern positions at the Max Planck Institute for Secur
 
 Here is my [CV](https://aparna-b.github.io/researcher/resume.pdf).
 
-**I'm on the job market for postdoctoral and industry research positions**
+**I'm on the job market for postdoctoral and industry research positions this year!**
 
 # News
 - Dec 2024: Presenting at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-2024/home?authuser=0), [AFME](https://www.afciworkshop.org/), and [RBFM](https://asu-apg.github.io/rbfm/) workshops at NeurIPS in Vancouver!
