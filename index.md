@@ -14,6 +14,14 @@ I have also held research intern positions at the Max Planck Institute for Secur
 
 Here is my [CV](https://aparna-b.github.io/researcher/resume.pdf).
 
+**I'm on the job market for postdoctoral and industry research positions**
+
+# News
+- Dec 2024: Presenting at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-2024/home?authuser=0), [AFME](https://www.afciworkshop.org/), and [RBFM](https://asu-apg.github.io/rbfm/) workshops at NeurIPS in Vancouver!
+- Aug 2024: Giving a spotlight talk at the Responsible AI for Health Symposium [RAIHS](https://carey.jhu.edu/RAIHS) at John Hopkins in DC!
+- May 2024: Excited to be summer intern fellow at the Stanford [Regulation, Evaluation, and Governance Lab](https://reglab.stanford.edu/)!
+
+
 ## Research Interests
 
 I am broadly interested in developing techniques to support fair classification and ranking in healthcare contexts. In this scope, the themes of my own research are:
