@@ -14,9 +14,9 @@ layout: default
 7. Mitigating the impact of biased artificial intelligence in emergency decision-making. Nature Communications Medicine 2023. Adam, H., **Balagopalan, A.**, Alsentzer, E. et al. [/paper/](https://doi.org/10.1038/s43856-022-00214-4)
 8. Automated detection of progressive speech changes in early Alzheimer's disease. Alzheimer's & Dementia: Diagnosis, 2023. Robin, J., Xu, M., **Balagopalan, A.**, Novikova, J., Kahn, L., Oday, A., Hejrati, M., Hashemifar, S., Negahdar, M., Simpson, W. and Teng, E., 2023. [/paper/](https://alz-journals.onlinelibrary.wiley.com/doi/pdf/10.1002/dad2.12445)
 9. Comparing Acoustic-based Approaches for Alzheimer's Disease Detection. Interspeech 2021. **Balagopalan, A.**, & Novikova, J. (2021). [/paper/](https://arxiv.org/abs/2106.01555)
-10. &nbsp Comparing pre-trained and feature-based models for prediction of Alzheimer's disease based on speech. Frontiers in aging neuroscience 2021. **Balagopalan, A.**, Eyre, B., Robin, J., Rudzicz, F., & Novikova, J. (2021). [/paper/](https://www.frontiersin.org/articles/10.3389/fnagi.2021.635945/full)
-11. &nbsp To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Interspeech 2020. **Balagopalan, A.**, Eyre, B., Rudzicz, F., Novikova, J. (2020). [/paper/](https://arxiv.org/abs/2008.01551)
-12.  &nbsp Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation.  Machine Learning for Health NeurIPS Workshop, in PMLR 2019. **Balagopalan, A.**, Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2019). [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
+10. &nbsp; Comparing pre-trained and feature-based models for prediction of Alzheimer's disease based on speech. Frontiers in aging neuroscience 2021. **Balagopalan, A.**, Eyre, B., Robin, J., Rudzicz, F., & Novikova, J. (2021). [/paper/](https://www.frontiersin.org/articles/10.3389/fnagi.2021.635945/full)
+11. &nbsp; To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Interspeech 2020. **Balagopalan, A.**, Eyre, B., Rudzicz, F., Novikova, J. (2020). [/paper/](https://arxiv.org/abs/2008.01551)
+12. &nbsp; Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation.  Machine Learning for Health NeurIPS Workshop, in PMLR 2019. **Balagopalan, A.**, Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2019). [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
 
 
 ## Book Chapters
