@@ -22,3 +22,4 @@ layout: default
 ## Book Chapters
 
 1. Visualizations of Deep Neural Networks in Computer Vision:  A survey, In Transparent Data Mining for Big and Small Data (pp.  123-144).Springer, Cham., 2017. Seifert, C., Aamir, **A.,Balagopalan**, A., Jain, D., Sharma, A., Grottel, S.,  Gumhold, S., [/chapter/](https://www.springerprofessional.de/en/visualizations-of-deep-neural-networks-in-computer-vision-a-surv/12273622)
+
